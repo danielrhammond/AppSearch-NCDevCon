@@ -12,6 +12,8 @@ Once you do that and run the app with your key in there it will create the exper
 
 Please contact me if you find any of this helpful, have questions, recommendations, feedback, etc
 
+Slides from the presentation are included as Slides.pdf
+
 # Notes
 
 Base SDK 6.0, Targets 6.0, XCode 4.5 recommended
